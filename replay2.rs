@@ -1,0 +1,3 @@
+fn main() {
+    let _ = hifitime::prelude::Epoch::from_format_str("Y\u{c}ڰ%d\t\u{16}(\u{e}\u{f}\u{f}#\0d\u{f}AAAA918199\u{f}\u{f}4\u{1d}11-011-\0\0\0 \0\0\t\u{16}\t\u{16}(\u{e}MMMMMMMMMMMMMMMMMMMMMMM\u{f}\u{e}\u{c}\u{10}\u{f}\0\u{f}\u{f}\u{f}\0\u{1}\0\0 \0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM", "MMM%%%%Y\u{c}ڰd%z%Y\u{c}ڰd%z%%%Y\u{c}ڰd%z%Y\u{c}ڰ%d\t\u{16}(\u{e}\u{f}MMMMMMMMMMMMMMMMMMMMMMMM%%%%Y\u{c}ڰd%z%Y\u{c}ڰd%z%%%Y\u{c}ڰd%z%Y\u{c}ڰ%d\t\u{16}(\u{e}\u{f}\u{f}#\0d\u{f}AAAA918199\u{f}\u{f}4\u{1d}11-05j\t\u{16})\u{e}\u{f}\u{f}#\0d\u{f}AAAA9");
+}
