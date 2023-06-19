@@ -1,0 +1,3 @@
+fn main() {
+    let _ = hifitime::prelude::Epoch::from_format_str("\0\u{8} 11-&.\u{f}\u{f}\0\u{f}\u{f}\u{f}\0\u{1}\u{3}\u{8} 11-&5j0\u{f}\u{f}\0\u{4}\u{1}\0\u{f}\u{f}\0\u{f}\u{f}\u{f}\0\u{1}\0\u{8} 11-&5j0\u{f}\u{f}\u{f}\0\u{1}\0\u{8} 11-&5j0%%f밀%f\r%\u{f}\0\u{f}\u{f}\u{f}\0\u{1}\u{3}\u{8} 11-&5j0\u{f}\u{f}\0\u{4}\u{1}\0\u{f}\u{f}\0\u{f}\u{f}\u{f}\0\u{1}\0\u{8} 11-&5j0\u{f}\u{f}\u{f}\0\u{1}\0\u{8} 11-&5j0%%f밀%f\r%", "Y\0%%f밀\u{8} 11-l5j0c%f밀5j0\u{f}\u{f}11-&5j0%%f밀%f\r%Y\0%%f밀\u{8} 11-Y\0%%f밀\u{8} 11-l5j0c%f밀5j0\u{f}\u{f}11-&5j0%%f밀%f\r%Y\0%%f밀\u{8} 11-l5j0c%f밀%f\r%Y\0%%f밀%f\r%");
+}

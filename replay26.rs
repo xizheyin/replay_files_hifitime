@@ -1,0 +1,3 @@
+fn main() {
+    let _ = hifitime::prelude::Epoch::from_format_str("aa%JMMMMMMMMMMMMMM000000000004222001Zaaaa@aaaaaaaaaaaa@aaaaaaaaa%a\01 aaaaaaaa@aaaaaaaaa%JMMMMMMMMMMMMMM000000000004222001Zaaaa@aaaaaaaaaaaa@aaaaaaaaa%aa%Jڰd%aanaaaaaaaa@aa\0\u{10}aaaaa%aa%Jڰd%zZaaaa@aaaaaaaaaaaa@aaaaaaa", "aa%aa%Jڰd%aanaaaaaaaa@aa\0\u{10}aaaaa%aa%Jڰd%z%%d\n\n\n\n\n\n\n\n\n\n\n\0\0\n\n\n*\n\n\n\n\n\na%Jڰd%aanaaaaaaaa@aa\0\u{10}aaaaa%aa%Jڰd%zZaaaa@aaaaaaaaaaaa@aaaaaaaaa%aa%Jڰd%aanaaaaaaaa@aa\0\u{10}aaaaa%aa%Jڰd%z%%d\n\n\n\n\n\n\n\n\n\n\n\0\0\n\n\n*\n\n\n\n\n\n\n\n\u{8}\n\n\nA\n\n\nI\n\n%,");
+}
